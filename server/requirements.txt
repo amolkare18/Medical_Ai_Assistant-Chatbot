@@ -1,6 +1,6 @@
 langchain>=0.2.15
 langchain-groq
-pinecone-client
+pinecone
 langchain-google-genai
 chromadb   # optional if you want local vectorstore later
 sentence-transformers
