@@ -1,0 +1,12 @@
+langchain>=0.2.15
+langchain-groq
+pinecone-client
+langchain-google-genai
+chromadb   # optional if you want local vectorstore later
+sentence-transformers
+unstructured
+python-dotenv
+tqdm
+fastapi
+uvicorn
+langchain_openai
