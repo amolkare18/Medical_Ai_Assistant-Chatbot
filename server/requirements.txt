@@ -1,12 +1,37 @@
+# langchain>=0.2.15
+# langchain-groq
+# pinecone
+# langchain-google-genai
+#    # optional if you want local vectorstore later
+# sentence-transformers
+# unstructured
+# python-dotenv
+# tqdm
+# fastapi
+# uvicorn
+# langchain-openai
+# langchain-community    
+# langchain-huggingface
+# pypdf
+# langchain-core
+# langchain-text-splitters
 langchain>=0.2.15
-langchain-groq
-pinecone
+langchain-openai
+langchain-community
 langchain-google-genai
-chromadb   # optional if you want local vectorstore later
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+
+pinecone
 sentence-transformers
-unstructured
-python-dotenv
-tqdm
+torch
+huggingface-hub
+
 fastapi
 uvicorn
-langchain_openai
+python-multipart
+
+pypdf
+python-dotenv
+tqdm
